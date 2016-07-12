@@ -1,6 +1,5 @@
 # Project Movie Trailer
 
-
 This script takes as input a list of movies, generates an html file displaying those movies and automatically opens it in the browser.
 
 To use, clone the files on your computer, open the command line and navigate to the files. Then, simply execute the file entertainment_center.py
@@ -14,6 +13,7 @@ To add or change movies, open the file entertainement_center.py. Adding or delet
 * Instantiate the Movie class. Four parameters are needed: title, storyline, url of the poster, url of the trailer. 
 
 '''python
+
     million_dollar_baby = media.Movie(
         "Million Dollar Baby",
         "A determined woman works with a hardened boxing trainer to become a professional.",
