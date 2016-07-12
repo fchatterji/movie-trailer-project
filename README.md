@@ -12,7 +12,6 @@ To add or change movies, open the file entertainement_center.py. Adding or delet
 
 * Instantiate the Movie class. Four parameters are needed: title, storyline, url of the poster, url of the trailer. 
 
-'''python
 
     million_dollar_baby = media.Movie(
         "Million Dollar Baby",
@@ -20,7 +19,7 @@ To add or change movies, open the file entertainement_center.py. Adding or delet
         "https://upload.wikimedia.org/wikipedia/en/d/d3/Million_Dollar_Baby_poster.jpg",
         "https://www.youtube.com/watch?v=5_RsHRmIRBY"
         )
-'''
+
 
 * Add or delete the movie in the "movies" list
 
