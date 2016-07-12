@@ -10,7 +10,7 @@ An html file, called fresh_tomatoes, will be created and opened.
 
 To add or change movies, open the file entertainement_center.py. Adding or deleting a movie requires two steps:
 
-* Instantiate the Movie class. Four parameters are needed: title, storyline, url of the poster, url of the trailer. 
+Instantiate the Movie class. Four parameters are needed: title, storyline, url of the poster, url of the trailer. 
 
 
     million_dollar_baby = media.Movie(
@@ -21,9 +21,11 @@ To add or change movies, open the file entertainement_center.py. Adding or delet
         )
 
 
-* Add or delete the movie in the "movies" list
+Add or delete the movie in the "movies" list
+
 
     movies = [toy_story, million_dollar_baby, lagaan, three_idiots]
+
 
 This project is part of the udacity full stack web developper nanodegree by Udacity. It is not licensed.
 
