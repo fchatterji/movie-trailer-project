@@ -9,7 +9,7 @@ toy_story = media.Movie(
     )
 
 million_dollar_baby = media.Movie(
-    "Toy Story",
+    "Million Dollar Baby",
     "A determined woman works with a hardened boxing trainer to become a professional.",
     "https://upload.wikimedia.org/wikipedia/en/d/d3/Million_Dollar_Baby_poster.jpg",
     "https://www.youtube.com/watch?v=5_RsHRmIRBY"
