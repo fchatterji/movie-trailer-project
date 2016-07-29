@@ -1,4 +1,4 @@
-# Project Movie Trailer
+# Movie Trailer project
 
 This script takes as input a list of movies, generates an html file displaying those movies and automatically opens it in the browser.
 
